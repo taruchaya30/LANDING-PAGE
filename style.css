@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+ background-color: black;
+    width: 100%;
+ background-image: url(https://st4.depositphotos.com/1006839/20724/i/450/depositphotos_207249444-stock-photo-front-view-generic-brandless-moder.jpg);
+    background-size: cover;
+}
+#navbar{
+    width: 1535px;
+    height: 70px;
+    background-color:transparent;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    margin-top: 0%;
+padding-top:0%;
+}
+
+
+h2{
+    padding-left: 20px;
+    padding-top: 5px;
+    color: white;
+    
+}
+
+#nav{
+    display: flex;
+    gap: 50px;
+    padding-right: 40px;
+    
+}
+h2:hover{
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    
+}
+.road{
+    background-color: gray;
+    width: 1535px;
+    height: 70px;
+    margin-top: 1.22%;
+    opacity: 0.6;
+}
+#one{
+    height: 70px
+}
+H4{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 8%;
+    background-color:transparent;
+    color: white;
+    width:800px;
+    
+}
